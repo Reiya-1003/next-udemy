@@ -20,7 +20,7 @@ export default function Post({ post }) {
         <div className="flex cursor-pointer mt-12">
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            class="h-5 w-5 mr-3"
+            className="h-5 w-5 mr-3"
             viewBox="0 0 20 20"
             fill="currentColor"
           >
